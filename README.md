@@ -8,5 +8,5 @@ Takes two arguments:
 ```powershell
 # Powershell
 .\random-file myfile 1000
-# Generates a file "myfile" with 1000 characters
+# Generates a file "myfile" with 1000 megabytes (1 Gigabyte)
 ```
