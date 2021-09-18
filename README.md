@@ -6,6 +6,7 @@ Takes two arguments:
 
 ## Example
 ```powershell
+# Powershell
 .\random-file myfile 1000
 # Generates a file "myfile" with 1000 characters
 ```
